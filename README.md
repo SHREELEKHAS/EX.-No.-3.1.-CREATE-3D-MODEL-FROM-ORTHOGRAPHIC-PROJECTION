@@ -1,5 +1,6 @@
+## SHREE LEKHA.S(212223110052)
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:31-3-2024
+## DATE:31.03.2024
 
 ## AIM:
 To create a 3D model from given orthographic projection.
